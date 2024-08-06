@@ -1,8 +1,8 @@
 {
   "name": "react-quill-patched",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "The Quill rich-text editor as a React component.",
-  "author": "zenoamaro <zenoamaro@gmail.com>, VaguelySerious <mittgfu@gmail.com>",
+  "author": "zenoamaro <zenoamaro@gmail.com>, VaguelySerious <mittgfu@gmail.com>, lindgrene <ericlin@chalmers.se>",
   "license": "MIT",
   "homepage": "https://github.com/yata-corp/react-quill-patched",
   "bugs": "https://github.com/yata-corp/react-quill-patched/issues",

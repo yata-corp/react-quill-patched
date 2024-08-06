@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.0.1
+
+- Export `Embed` and `BlockEmbed` types from Quill.
+
 ## v3.0.0
 
 - Follow fork by [VaguelySerious](https://github.com/VaguelySerious/react-quill). This includes a migration to QuillJS@2.0.

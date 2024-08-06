@@ -7,10 +7,12 @@ import React, { createRef } from 'react';
 import { isEqual } from 'lodash-es';
 
 import Quill, { type EmitterSource, type Range as RangeStatic, QuillOptions as QuillOptionsStatic } from 'quill';
+import { BlockEmbed } from 'quill/blots/block';
+import Embed from 'quill/blots/embed'
 import type DeltaStatic from 'quill-delta';
 
 export { Quill }
-export type { DeltaStatic, EmitterSource, RangeStatic, QuillOptionsStatic }
+export type { DeltaStatic, EmitterSource, RangeStatic, QuillOptionsStatic, BlockEmbed, Embed }
 
 // Merged namespace hack to export types along with default object
 // See: https://github.com/Microsoft/TypeScript/issues/2719
