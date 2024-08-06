@@ -1,15 +1,15 @@
 {
-  "name": "react-quill-new",
-  "version": "3.2.2",
+  "name": "react-quill-patched",
+  "version": "3.0.0",
   "description": "The Quill rich-text editor as a React component.",
   "author": "zenoamaro <zenoamaro@gmail.com>, VaguelySerious <mittgfu@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/VaguelySerious/react-quill",
-  "bugs": "https://github.com/VaguelySerious/react-quill/issues",
+  "homepage": "https://github.com/yata-corp/react-quill-patched",
+  "bugs": "https://github.com/yata-corp/react-quill-patched/issues",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VaguelySerious/react-quill.git"
+    "url": "git+https://github.com/yata-corp/react-quill-patched.git"
   },
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

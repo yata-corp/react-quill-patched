@@ -1,5 +1,10 @@
 # Changelog
 
+## v3.0.0
+
+- Follow fork by [VaguelySerious](https://github.com/VaguelySerious/react-quill). This includes a migration to QuillJS@2.0.
+- Fix issue where editor disappears after certain prop changes.
+
 ## v2.0.0
 
 - Fully ported to TypeScript (#549)
