@@ -83,6 +83,7 @@
     "travis-cov": "^0.2.5",
     "ts-loader": "^6.2.1",
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.2"
+    "typescript": "^5.4.2",
+    "yarn-audit-fix": "^10.0.8"
   }
 }
