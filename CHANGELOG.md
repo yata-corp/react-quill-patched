@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.0.3
+
+- Export `Delta` from `quill-delta`.
+
 ## v3.0.2
 
 - Export `Embed` and `BlockEmbed` as actual classes from Quill.

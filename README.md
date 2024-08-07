@@ -1,5 +1,9 @@
-ReactQuill [![npm](https://img.shields.io/npm/v/react-quill-new.svg)](https://www.npmjs.com/package/react-quill-new)
-[![npm downloads](https://img.shields.io/npm/dt/react-quill-new.svg?maxAge=2592000)](http://www.npmtrends.com/react-quill-new)
+ReactQuill [![npm](https://img.shields.io/npm/v/react-quill-patched.svg)](https://www.npmjs.com/package/react-quill-patched)
+[![npm downloads](https://img.shields.io/npm/dt/react-quill-patched.svg?maxAge=2592000)](http://www.npmtrends.com/react-quill-patched)
+==============================================================================
+
+This is a fork of the fork of [react-quill](https://zenoamaro.github.io/react-quill/) by [VaguelySerious](https://github.com/VaguelySerious/react-quill), with our own smaller changes on top. Note that the tests are not migrated yet, but this will serve as a stopgap solution.
+
 ==============================================================================
 
 This is fork of [react-quill](https://zenoamaro.github.io/react-quill/) that updates its QuillJS dependency from 1.3.7 to >=2.0.2 and makes some smaller changes for compatibility.

@@ -9,9 +9,10 @@ import { isEqual } from 'lodash-es';
 import Quill, { type EmitterSource, type Range as RangeStatic, QuillOptions as QuillOptionsStatic } from 'quill';
 import { BlockEmbed } from 'quill/blots/block';
 import Embed from 'quill/blots/embed'
+import Delta from 'quill-delta';
 import type DeltaStatic from 'quill-delta';
 
-export { Quill, Embed, BlockEmbed }
+export { Quill, Embed, BlockEmbed, Delta }
 export type { DeltaStatic, EmitterSource, RangeStatic, QuillOptionsStatic }
 
 // Merged namespace hack to export types along with default object
