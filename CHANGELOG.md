@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.0.4
+
+- Implement the fix for the disappearing editor by [duhdugg, #838](https://github.com/zenoamaro/react-quill/pull/838).
+
 ## v3.0.3
 
 - Export `Delta` from `quill-delta`.
