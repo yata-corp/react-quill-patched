@@ -1,5 +1,10 @@
 # Changelog
 
+## v3.0.2
+
+- Export `Embed` and `BlockEmbed` as actual classes from Quill.
+
+
 ## v3.0.1
 
 - Export `Embed` and `BlockEmbed` types from Quill.

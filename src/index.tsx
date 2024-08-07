@@ -11,8 +11,8 @@ import { BlockEmbed } from 'quill/blots/block';
 import Embed from 'quill/blots/embed'
 import type DeltaStatic from 'quill-delta';
 
-export { Quill }
-export type { DeltaStatic, EmitterSource, RangeStatic, QuillOptionsStatic, BlockEmbed, Embed }
+export { Quill, Embed, BlockEmbed }
+export type { DeltaStatic, EmitterSource, RangeStatic, QuillOptionsStatic }
 
 // Merged namespace hack to export types along with default object
 // See: https://github.com/Microsoft/TypeScript/issues/2719
